@@ -4,8 +4,8 @@
   "description": "An extension to open a new tab",
   "permissions": [
     "tabs",
-    "activeTabs",
-    "session",
+    "activeTab",
+    "sessions",
     "cookies",
     "<all_urls>"
   ],
